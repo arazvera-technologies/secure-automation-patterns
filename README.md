@@ -5,6 +5,7 @@
 A collection of practical design patterns for building permission-aware automation with recoverable actions, auditability, and human oversight.
 
 ## Contents
+- [Runnable, tested change-policy gate (offline)](docs/policy-gate-demo.md)
 - [Access and approval controls](docs/approval-and-access.md)
 - [Defensive response playbook](docs/defensive-response.md)
 
